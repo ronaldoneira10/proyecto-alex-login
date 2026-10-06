@@ -1,0 +1,5 @@
+/* Color de marca (verde SENA) sobre las variables de Quasar */
+:root {
+  --q-primary: #39a900;
+  --q-secondary: #00324d;
+}
